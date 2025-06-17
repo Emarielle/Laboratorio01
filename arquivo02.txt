@@ -1,2 +1,8 @@
 criando arquivo no repositório remoto
+<<<<<<< HEAD:arquivo02.txt
 adicionando mais linhas ao meu arquivo
+=======
+Modificando arquivo no repositório remoto
+para treinamento
+do git
+>>>>>>> main:arquivo02
